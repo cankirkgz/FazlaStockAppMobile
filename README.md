@@ -22,4 +22,28 @@
 
   <p>You are now ready to use the Fazla Stock Tracking App to manage your inventory and streamline the production of smart weighing systems.</p>
 
-   <p>Please stay tuned for further details in section 3 for usage instructions and additional information about the app.</p>
+<h2>3. Application Pages and Features</h1>
+
+<h3>SKU Page</h2>
+    <p>The SKU Page is designed to manage unique Stock Keeping Units (SKU) for tracking and inventory purposes. Here are the key features:</p>
+
+ <ol>
+        <li><strong>SKU Listing:</strong> All SKUs are listed in a scrollable format. Each SKU displays its "Name," "Category," and "Unit" properties.</li>
+        <li><strong>Sorting Functionality:</strong> You can sort the list of SKUs in alphabetical order by clicking on the respective "Name," "Category," or "Unit" headings. Clicking the same heading again will reverse the sort order.</li>
+        <li><strong>Search Functionality:</strong> Beneath the properties, search input fields allow you to filter SKUs based on your search criteria.</li>
+        <li><strong>Edit Functionality:</strong> Swipe a SKU to the right to reveal the "Edit" button. You can then edit the details of the SKU.</li>
+    </ol>
+
+<h3>Product Page</h2>
+    <p>The Product Page is focused on managing your inventory of products. It features the following functionalities:</p>
+
+ <ol>
+        <li><strong>Product Listing:</strong> All products are listed with their "Name," "Category," and "Project" properties.</li>
+        <li><strong>Sorting Functionality:</strong> You can sort the list of products in alphabetical order by clicking on the respective "Name," "Category," or "Project" headings. Clicking the same heading again will reverse the sort order.</li>
+        <li><strong>Search Functionality:</strong> Use the search input field beneath the properties to search for specific products within your inventory.</li>
+        <li><strong>Edit Functionality:</strong> Swipe a product to the right to reveal the "Edit" button, allowing you to modify the product's details.</li>
+        <li><strong>Product Details Page:</strong> Clicking on a product in the list opens the "Product Details" page, which displays the "SkuName," "Project," "Category," "Usage Type," "Location," and "Available" properties for detailed product information.</li>
+        <li><strong>Additional Buttons:</strong> The Product Page also includes "Add Stock" and "Produce SSS" buttons, although these buttons are currently non-functional.</li>
+    </ol>
+
+ <p>The "Fazla Stock Tracking App" provides an efficient way to manage your SKUs and inventory, and these features make it easier to keep track of your components and products. Please note that the "Add Stock" and "Produce SSS" functionalities are planned for future updates, and stay tuned for further enhancements to the application.</p>
