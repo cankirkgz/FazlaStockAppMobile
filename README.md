@@ -46,4 +46,8 @@
         <li><strong>Additional Buttons:</strong> The Product Page also includes "Add Stock" and "Produce SSS" buttons, although these buttons are currently non-functional.</li>
     </ol>
 
+<h3>User Profile and Logout</h3>
+    <p>In the header section of the application, you will find your user profile with your name and an icon representing your account. Although the "Log Out" button is not currently available in the application, please be aware that this feature is planned for a future update. When implemented, you will be able to log out from your account and end your session by simply clicking on your name or the icon. This will reveal the "Log Out" button, providing you with a convenient way to safely exit your session and return to the main login screen when needed.</p>
+
+
  <p>The "Fazla Stock Tracking App" provides an efficient way to manage your SKUs and inventory, and these features make it easier to keep track of your components and products. Please note that the "Add Stock" and "Produce SSS" functionalities are planned for future updates, and stay tuned for further enhancements to the application.</p>
