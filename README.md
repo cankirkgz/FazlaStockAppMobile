@@ -45,9 +45,21 @@
         <li><strong>Product Details Page:</strong> Clicking on a product in the list opens the "Product Details" page, which displays the "SkuName," "Project," "Category," "Usage Type," "Location," and "Available" properties for detailed product information.</li>
         <li><strong>Additional Buttons:</strong> The Product Page also includes "Add Stock" and "Produce SSS" buttons, although these buttons are currently non-functional.</li>
     </ol>
+ <p>The "Fazla Stock Tracking App" provides an efficient way to manage your SKUs and inventory, and these features make it easier to keep track of your components and products. Please note that the "Add Stock" and "Produce SSS" functionalities are planned for future updates, and stay tuned for further enhancements to the application.</p>
 
 <h3>User Profile and Logout</h3>
     <p>In the header section of the application, you will find your user profile with your name and an icon representing your account. Although the "Log Out" button is not currently available in the application, please be aware that this feature is planned for a future update. When implemented, you will be able to log out from your account and end your session by simply clicking on your name or the icon. This will reveal the "Log Out" button, providing you with a convenient way to safely exit your session and return to the main login screen when needed.</p>
 
+<h2>4. Possible Challenges and Considerations</h1>
 
- <p>The "Fazla Stock Tracking App" provides an efficient way to manage your SKUs and inventory, and these features make it easier to keep track of your components and products. Please note that the "Add Stock" and "Produce SSS" functionalities are planned for future updates, and stay tuned for further enhancements to the application.</p>
+<p>As the "Fazla Stock Tracking App" continues to evolve, there are several important considerations and potential challenges to be aware of:</p>
+
+<ul>
+        <li>The data for the listed products in the application is currently based on temporary sample data. In the future, these temporary data will be replaced with real data by connecting to an external data source. This transition may require adjustments in the code to facilitate data retrieval and integration.</li>
+
+<li>When using the "Edit" button to open the modal for editing product information, there is currently no error handling in place to validate user input. It is essential to implement error checks and validation to ensure that only valid modifications are accepted.</li>
+
+ <li>Please bear in mind that the application's code was developed by a student and may not be free from errors or optimal in all aspects. It's essential to approach the application with the understanding that it might contain certain imperfections.</li>
+    </ul>
+
+ <p>Being mindful of these factors will help in addressing potential issues as the application is further developed and refined.</p>
