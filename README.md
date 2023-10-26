@@ -5,10 +5,10 @@
   <p>To get started with the Fazla Stock Tracking App, follow these installation instructions:</p>
 
    <p><strong>Step 1:</strong> Clone the repository to your local machine.</p>
-    <code>git clone https://github.com/yourusername/fazla-stock-app.git</code>
+    <code>git clone https://github.com/cankirkgz/FazlaStockAppMobile.git</code>
 
   <p><strong>Step 2:</strong> Navigate to the project directory.</p>
-    <code>cd fazla-stock-app</code>
+    <code>cd FazlaStockAppMobile</code>
 
    <p><strong>Step 3:</strong> Install the required dependencies using npm or yarn.</p>
     <code>npm install</code>
